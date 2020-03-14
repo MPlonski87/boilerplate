@@ -1,0 +1,14 @@
+/* PROJECT */
+Project title: Boilerplate
+E-Mail: kontakt@michaelplonski.de
+Website: www.michaelplonski.de
+
+/* GENERAL */
+Last update: 2020/02/28
+Software: Lorem
+
+/* TEAM */
+Name: Michael Plonski
+
+/* THANKS */
+Name: Lorem

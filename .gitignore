@@ -1,0 +1,4 @@
+.ddev
+.env
+node_modules
+vendor
