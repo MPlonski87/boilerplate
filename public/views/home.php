@@ -29,7 +29,10 @@
   <div class="row">
     <p>
       {{ message }}
-    </p>
+    </p><br>
+  </div>
+  <div class="row">
+    <component></component>
   </div>
 </section>
 
