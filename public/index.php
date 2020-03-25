@@ -11,17 +11,15 @@
     <link rel="shortcut icon" href="favicon.ico">
   </head>
   <body>
-
     <?php
       require '../vendor/autoload.php';
       $dotenv = Dotenv\Dotenv::createImmutable('./..');
       $dotenv->load();
     ?>
-
+    
     <?php include(__DIR__ . '/core/' . 'database/' . 'database.php'); ?>
-
     <?php include(__DIR__ . '/views/' . 'home.php'); ?>
-
+    
     <script src="js/bundle.min.js"></script>
   </body>
 </html>
